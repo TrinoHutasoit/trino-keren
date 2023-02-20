@@ -4,3 +4,4 @@
 2. logatnya
 3. rambutnya
 4. hidungnya
+5. asal aja
